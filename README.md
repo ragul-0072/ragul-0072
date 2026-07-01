@@ -1,134 +1,100 @@
 <div align="center">
 
-<!-- ===================== HERO BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1a1f35,100:2563EB&height=280&section=header&text=RAGUL%20GANESH%20V&fontSize=60&fontColor=22C55E&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20Systems%20That%20Think&descAlignY=58&descSize=18&descColor=8b9bb4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:141a2e,100:2563EB&height=220&section=header&text=Ragul%20Ganesh%20V&fontSize=52&fontColor=22C55E&fontAlignY=42&desc=Software%20Developer&descAlignY=62&descSize=20&descColor=8b9bb4"/>
 
-<!-- ===================== TYPING BANNER ===================== -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=const+developer+%3D+%7B+name%3A+%22Ragul+Ganesh+V%22+%7D;print(%22Turning+ideas+into+scalable+systems%22);while(alive)+%7B+keepLearning()%3B+%7D;booting+creativity.exe...+%E2%9C%93" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+%26+Mobile+Engineer;Building+AI-Assisted+Tools;Turning+Ideas+Into+Products" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ragul-0072&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/ragul-0072?label=FOLLOWERS&style=for-the-badge&color=22C55E&logo=github" alt="followers"/>
-<img src="https://img.shields.io/badge/STATUS-COMPILING%20DREAMS-0B0F19?style=for-the-badge&logo=hackthebox&logoColor=22C55E&labelColor=0B0F19" alt="status"/>
+<img src="https://img.shields.io/badge/Chennai%2C%20India-0B0F19?style=for-the-badge&logo=googlemaps&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/CGPA-8.85-0B0F19?style=for-the-badge&logo=googlescholar&logoColor=2563EB" />
+<img src="https://komarev.com/ghpvc/?username=ragul-0072&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
-<!-- ===================== BOOT SEQUENCE ===================== -->
 <div align="center">
-
-```ansi
-[0;32mroot@ragul-dev[0;37m:[0;34m~[0;37m$ ./init_profile.sh
-
-[0;90m[  OK  ][0;37m Loading kernel modules: python, flutter, react, flask
-[0;90m[  OK  ][0;37m Mounting filesystem: /dev/creativity
-[0;90m[  OK  ][0;37m Starting service: relentless-curiosity.service
-[0;90m[  OK  ][0;37m Establishing uplink to github.com/ragul-0072
-[0;32m[ DONE ][0;37m System ready. Welcome to my world.
-```
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+<i>I build systems that connect the web, the cloud, and the physical world — one clean commit at a time.</i>
 </div>
 
----
-
-## 🛰️ TRANSMISSION_01 // BRAND STATEMENT
-
-<div align="center">
-
-> ### *"I don't just write code — I engineer systems that anticipate problems before they happen."*
-
-</div>
-
-I'm **Ragul**, a Software Developer and Computer Science undergraduate (2024–2028) at Rajalakshmi Institute of Technology, Chennai — currently holding an **8.85 CGPA** while shipping full-stack products, IoT systems, and research-grade tooling. I build across the entire stack: **crafting interfaces in React, powering logic with Python/Flask/FastAPI, and extending it all into mobile with Flutter.** I've also filed intellectual property for an AI-driven scientific tool — because sometimes the interesting problems aren't on Stack Overflow yet.
-
----
-
-## 👤 ABOUT_ME.exe
-
-<details open>
-<summary><b>🖥️ Click to expand full profile scan</b></summary>
 <br/>
 
-```yaml
-whoami:
-  name: "Ragul Ganesh V"
-  role: "Software Developer / CS Undergraduate"
-  location: "Chennai, India"
-  currently_building: "Full-stack apps, IoT systems, AI-assisted tools"
-  currently_learning: ["Advanced System Design", "Cloud-Native Architecture", "AI/ML Pipelines"]
-  leadership: "School Pupil Leader — led 1000+ students, coordinated events & discipline"
-  fun_fact: "Filed a copyright for a solar-astronomy AI tool before finishing my degree"
-  motto: "Ship it. Then make it elegant."
-  reach_me: "ragulganesh0072@gmail.com"
-```
+## About
 
-</details>
+I'm a Computer Science undergraduate at **Rajalakshmi Institute of Technology** (2024–2028, CGPA 8.85), building across the full stack — from responsive React interfaces to Python/Flask APIs, IoT-integrated systems, and cross-platform Flutter apps. I care about writing software that's not just functional, but genuinely well-engineered.
 
----
-
-## ⚡ TECH ARSENAL
-
-<div align="center">
-
-**🎨 Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-**⚙️ Backend & Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,java,mysql&theme=dark" />
-
-**📱 Mobile & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" />
-
-**🛠️ Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-
-</div>
-
-<div align="center">
-
-| Category | Stack |
-|:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-0B0F19?style=flat-square&logo=python&logoColor=22C55E) ![Java](https://img.shields.io/badge/-Java-0B0F19?style=flat-square&logo=openjdk&logoColor=22C55E) ![JavaScript](https://img.shields.io/badge/-JavaScript-0B0F19?style=flat-square&logo=javascript&logoColor=22C55E) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-0B0F19?style=flat-square&logo=react&logoColor=2563EB) ![HTML5](https://img.shields.io/badge/-HTML5-0B0F19?style=flat-square&logo=html5&logoColor=2563EB) ![CSS3](https://img.shields.io/badge/-CSS3-0B0F19?style=flat-square&logo=css3&logoColor=2563EB) |
-| **Backend** | ![Flask](https://img.shields.io/badge/-Flask-0B0F19?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-0B0F19?style=flat-square&logo=fastapi&logoColor=22C55E) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-0B0F19?style=flat-square&logo=flutter&logoColor=2563EB) |
-| **Database & Cloud** | ![MySQL](https://img.shields.io/badge/-MySQL-0B0F19?style=flat-square&logo=mysql&logoColor=2563EB) ![Firebase](https://img.shields.io/badge/-Firebase-0B0F19?style=flat-square&logo=firebase&logoColor=orange) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-0B0F19?style=flat-square&logo=git&logoColor=orange) ![GitHub](https://img.shields.io/badge/-GitHub-0B0F19?style=flat-square&logo=github&logoColor=white) |
-
-</div>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-<div align="center">
+Outside of code, I served as my **school's Pupil Leader**, leading a student body of over 1,000 and coordinating events and discipline — an early lesson in ownership and accountability that carries into how I build software today.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 EduMind-AI
-Personalized learning web app with interactive study tools and **automated session assistance**. Selected in the **internal rounds of Smart India Hackathon 2025.**
+**Currently building**
+Full-stack products and IoT-integrated systems
 
-`Python` `Flask` `React` `AI-Assisted`
+**Currently learning**
+System design, cloud-native architecture, AI/ML pipelines
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 Presenza
-Proximity-based **IoT attendance system** that automates and tracks daily attendance in real time. 🏆 **Winner — Designathon 1.0**
+**Looking to collaborate on**
+Open-source tools and applied AI projects
+
+**Reach me at**
+ragulganesh0072@gmail.com
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,fastapi,flutter,firebase,mysql,java,git,github,vscode,figma&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| | |
+|---|---|
+| **Frontend** | HTML5 · CSS3 · JavaScript · React |
+| **Backend** | Python · Flask · FastAPI · Java |
+| **Mobile** | Flutter |
+| **Data & Cloud** | MySQL · Firebase |
+| **Tooling** | Git · GitHub · VS Code · Figma |
+
+</div>
+
+<br/>
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### EduMind-AI
+A personalized learning web app with interactive study tools and automated session assistance. Advanced to the internal rounds of **Smart India Hackathon 2025**.
+
+`Python` `Flask` `React`
+
+</td>
+<td width="50%" valign="top">
+
+### Presenza
+A proximity-based IoT system that automates and tracks daily attendance in real time. **Winner, Designathon 1.0.**
 
 `IoT` `Python` `Embedded Systems`
 
@@ -137,172 +103,116 @@ Proximity-based **IoT attendance system** that automates and tracks daily attend
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 ACTS
-Sustainability platform that monitors, tracks, and analyzes **regional environmental consumption metrics** to drive greener decisions.
+### ACTS
+A sustainability platform for monitoring and analyzing regional environmental consumption metrics.
 
 `Full-Stack` `Data Visualization`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 JS Plumber Bros
-A 2D side-scrolling browser game built from scratch with **custom physics and collision detection.**
+### JS Plumber Bros
+A 2D side-scrolling browser game built from the ground up, with custom physics and collision detection.
 
-`JavaScript` `Game Dev` `Canvas`
+`JavaScript` `Game Development`
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<div align="center">
+**SFASFIC — Software Framework for Automated Solar Filament Identification & Characterization**
+*Copyright filed with the Indian Copyright Office (Application No. SW-3418/2026-CO)*
 
-### 🔬 Flagship Research: SFASFIC
-**Software Framework for Automated Solar Filament Identification & Characterization**
-*Copyright Filed — Indian Copyright Office | Application No. SW-3418/2026-CO*
-
-A data-processing tool that automatically identifies and maps solar filaments from astronomical image datasets — turning raw imagery into structured scientific insight.
+A data-processing tool that automatically identifies and maps solar filaments from astronomical image datasets, built to turn raw imagery into structured scientific insight.
 
 `Python` `Image Processing` `Research Tooling`
 
-</div>
+<br/>
 
----
-
-## 🏆 ACHIEVEMENTS & MILESTONES
+## Achievements
 
 <div align="center">
 
-| 🏅 | Achievement |
-|:---:|:---|
-| 🥇 | **Winner, Designathon 1.0** — IoT-based smart attendance solution |
-| 🚀 | **Selected, Smart India Hackathon 2025** (Internal Rounds) — EduMind-AI |
-| 📜 | **Copyright Filed** — SFASFIC, Indian Copyright Office |
+| | |
+|:---|:---|
+| 🏆 | **Winner, Designathon 1.0** — IoT-based smart attendance solution |
+| 🚀 | **Smart India Hackathon 2025** (Internal Rounds) — selected for EduMind-AI |
+| 📄 | **Copyright Filed** — SFASFIC, Indian Copyright Office |
 | 🛰️ | **NASA Space Apps Challenge 2025** — Universal Event Nomination Badge |
 | 🌌 | **NASA Space Apps Challenge 2025** — Galactic Problem Solver Certificate |
-| 🎓 | **School Pupil Leader** — Led student body of 1000+, coordinated discipline & events |
-| 🗣️ | **Participant & Volunteer**, TOSS Conference |
+| 🎓 | **School Pupil Leader** — led a student body of 1,000+ |
+| 🗣️ | **TOSS Conference** — participant and volunteer |
 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ragul-0072&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=4" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ragul-0072&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4"/>
 </div>
 
----
+<br/>
 
-## 📊 MISSION CONTROL // LIVE METRICS
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ragul-0072&show_icons=true&theme=react&hide_border=true&bg_color=0B0F19&title_color=22C55E&icon_color=2563EB&text_color=8b9bb4"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragul-0072&layout=compact&theme=react&hide_border=true&bg_color=0B0F19&title_color=22C55E&text_color=8b9bb4"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ragul-0072&show_icons=true&theme=dark&hide_border=true&bg_color=0B0F19&title_color=22C55E&icon_color=2563EB&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragul-0072&layout=compact&theme=dark&hide_border=true&bg_color=0B0F19&title_color=22C55E&text_color=c9d1d9"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragul-0072&theme=react&hide_border=true&background=0B0F19&stroke=2563EB&ring=22C55E&fire=22C55E&currStreakLabel=22C55E"/>
-
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ragul-0072&theme=dark&hide_border=true&background=0B0F19&stroke=2563EB&ring=22C55E&fire=22C55E&currStreakLabel=22C55E"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragul-0072&theme=react-dark&bg_color=0B0F19&color=22C55E&line=2563EB&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 🕰️ DEVELOPER TIMELINE
-
-```
-2022 ● SSLC — 94.80% ─────────────────────────────────────
-2024 ● HSE (+2), CS & Math — 93.33% ───────────────────────
-2024 ● Started B.E. Computer Science & Engineering ────────
-2025 ● Winner — Designathon 1.0 ───────────────────────────
-2025 ● Selected — Smart India Hackathon (EduMind-AI) ──────
-2025 ● NASA Space Apps Challenge — 2 Recognitions ─────────
-2026 ● Copyright Filed — SFASFIC ──────────────────────────
-NOW  ● Building. Learning. Shipping. ───────────────────────▶
-```
-
----
-
-## 🧭 CURRENT LEARNING JOURNEY
+## Journey
 
 <div align="center">
 
-```
-[■■■■■■■■□□] System Design & Architecture       80%
-[■■■■■■□□□□] Cloud-Native Development (Firebase) 60%
-[■■■■■□□□□□] AI/ML Integration Pipelines         50%
-[■■■■■■■□□□] Advanced Flutter Patterns           70%
-```
+| Year | Milestone |
+|:---:|:---|
+| 2022 | SSLC — 94.80% |
+| 2024 | HSE (+2), Computer Science & Math — 93.33% |
+| 2024 | Began B.E. Computer Science & Engineering |
+| 2025 | Won Designathon 1.0 |
+| 2025 | Selected for Smart India Hackathon 2025 |
+| 2025 | Recognized at NASA Space Apps Challenge |
+| 2026 | Filed copyright for SFASFIC |
 
 </div>
 
-## 🔭 FUTURE VISION
+<br/>
 
-- 🌐 Build products that sit at the intersection of **AI, mobile, and real-world hardware (IoT)**
-- 🔬 Push SFASFIC-style research tooling further — bridging **software engineering with scientific research**
-- 🚀 Contribute to open-source projects that empower developers building in resource-constrained environments
-- 🎯 Land an impactful internship where I can optimize AI model training at scale
-
----
-
-## 🧬 SYSTEM SPECIFICATIONS
+## Currently Exploring
 
 <div align="center">
 
-```yaml
-CPU:        Curiosity Core i9 (never throttles)
-RAM:        Unlimited (swap = coffee)
-OS:         Ragul OS — Dark Mode Edition
-Uptime:     2024 - Present, zero downtime
-Editor:     VS Code, Dark+ theme, Fira Code
-Shell:      "console.log('let's build something.')"
-Status:     Actively seeking internship / collab opportunities
-```
+| Focus Area | Progress |
+|:---|:---|
+| System Design & Architecture | ████████░░ 80% |
+| Cloud-Native Development (Firebase) | ██████░░░░ 60% |
+| AI/ML Integration Pipelines | █████░░░░░ 50% |
+| Advanced Flutter Patterns | ███████░░░ 70% |
 
 </div>
 
----
+<br/>
 
-## 📟 FUN FACTS // SYSTEM LOGS
-
-```log
-[INFO]  09:34:12  Filed a copyright before most people file their taxes.
-[INFO]  09:34:15  Led 1000+ students as School Pupil Leader — debugging humans is harder than code.
-[INFO]  09:34:18  Once built a 2D physics engine because pre-made ones felt too easy.
-[WARN]  09:34:21  Caffeine levels critical. Recommend immediate refill.
-[INFO]  09:34:25  NASA said "Galactic Problem Solver." Not making that up.
-[OK]    09:34:30  Ready to build something great with you.
-```
-
----
-
-## 📡 CONNECT // TRANSMIT A MESSAGE
+## Let's Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-ragulganesh0072@gmail.com-0B0F19?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:ragulganesh0072@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-ragul--tech-0B0F19?style=for-the-badge&logo=linkedin&logoColor=2563EB)](https://linkedin.com/in/ragul-tech)
-[![GitHub](https://img.shields.io/badge/-ragul--0072-0B0F19?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragul-0072)
+[![Gmail](https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=22C55E)](mailto:ragulganesh0072@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=2563EB)](https://linkedin.com/in/ragul-tech)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragul-0072)
+
+<br/>
+
+<sub>Thanks for stopping by — always open to interesting conversations and collaborations.</sub>
 
 </div>
 
-<div align="center">
-
-<sub>📍 Chennai, India</sub>
-
-<br/><br/>
-
-```ansi
-[0;32mroot@ragul-dev[0;37m:[0;34m~[0;37m$ echo "Thanks for stopping by. Let's build the future."
-[0;90mThanks for stopping by. Let's build the future.
-[0;32mroot@ragul-dev[0;37m:[0;34m~[0;37m$ █
-```
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1a1f35,100:0B0F19&height=120&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:141a2e,100:0B0F19&height=100&section=footer"/>
