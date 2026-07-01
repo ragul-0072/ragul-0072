@@ -7,6 +7,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Chennai%2C%20India-0B0F19?style=for-the-badge&logo=googlemaps&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/CGPA-8.85-0B0F19?style=for-the-badge&logo=googlescholar&logoColor=2563EB" />
 <img src="https://komarev.com/ghpvc/?username=ragul-0072&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS" />
 
 </div>
@@ -18,14 +19,14 @@
 </div>
 
 <div align="center">
-<i>I build systems that connect the web and the physical world — one clean commit at a time.</i>
+<i>I build systems that connect the web, the cloud, and the physical world — one clean commit at a time.</i>
 </div>
 
 <br/>
 
 ## About
 
-I'm a Computer Science undergraduate at **Rajalakshmi Institute of Technology** (2024–2028), building across the full stack — from responsive React interfaces to Python/Flask APIs, IoT-integrated systems, and cross-platform Flutter apps. I care about writing software that's not just functional, but genuinely well-engineered.
+I'm a Computer Science undergraduate at **Rajalakshmi Institute of Technology** (2024–2028, CGPA 8.85), building across the full stack — from responsive React interfaces to Python/Flask APIs, IoT-integrated systems, and cross-platform Flutter apps. I care about writing software that's not just functional, but genuinely well-engineered.
 
 Outside of code, I served as my **school's Pupil Leader**, leading a student body of over 1,000 and coordinating events and discipline — an early lesson in ownership and accountability that carries into how I build software today.
 
@@ -35,9 +36,6 @@ Outside of code, I served as my **school's Pupil Leader**, leading a student bod
 
 **Currently building**
 Full-stack products and IoT-integrated systems
-
-**Currently learning**
-System design, cloud-native architecture, AI/ML pipelines
 
 </td>
 <td width="50%" valign="top">
@@ -147,7 +145,7 @@ A data-processing tool that automatically identifies and maps solar filaments fr
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ragul-0072&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ragul-0072&theme=onedark&row=1&column=6&margin-w=15"/>
 </div>
 
 <br/>
@@ -161,7 +159,7 @@ A data-processing tool that automatically identifies and maps solar filaments fr
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragul-0072&theme=dark&hide_border=true&background=0B0F19&stroke=2563EB&ring=22C55E&fire=22C55E&currStreakLabel=22C55E"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragul-0072&theme=react-dark&bg_color=0B0F19&color=22C55E&line=2563EB&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ragul-0072&bg_color=0B0F19&color=22C55E&line=2563EB&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -173,13 +171,13 @@ A data-processing tool that automatically identifies and maps solar filaments fr
 
 | Year | Milestone |
 |:---:|:---|
-| 2022 | SSLC — 94.80% |
-| 2024 | HSE (+2), Computer Science & Math — 93.33% |
-| 2024 | Began B.E. Computer Science & Engineering |
-| 2025 | Won Designathon 1.0 |
-| 2025 | Selected for Smart India Hackathon 2025 |
-| 2025 | Recognized at NASA Space Apps Challenge |
 | 2026 | Filed copyright for SFASFIC |
+| 2025 | Recognized at NASA Space Apps Challenge |
+| 2025 | Selected for Smart India Hackathon 2025 |
+| 2025 | Won Designathon 1.0 |
+| 2024 | Began B.E. Computer Science & Engineering |
+| 2024 | HSE (+2), Computer Science & Math — 93.33% |
+| 2022 | SSLC — 94.80% |
 
 </div>
 
@@ -189,12 +187,7 @@ A data-processing tool that automatically identifies and maps solar filaments fr
 
 <div align="center">
 
-| Focus Area | Progress |
-|:---|:---|
-| System Design & Architecture | ████████░░ 80% |
-| Cloud-Native Development (Firebase) | ██████░░░░ 60% |
-| AI/ML Integration Pipelines | █████░░░░░ 50% |
-| Advanced Flutter Patterns | ███████░░░ 70% |
+`System Design & Architecture` &nbsp; `Cloud-Native Development (Firebase)` &nbsp; `AI/ML Integration Pipelines` &nbsp; `Advanced Flutter Patterns`
 
 </div>
 
