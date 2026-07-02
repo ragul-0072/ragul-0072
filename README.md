@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-<i>I build systems that connect the web and the physical world — one clean commit at a time.</i>
+<i>I build systems that connect the web and the physical world. one clean commit at a time.</i>
 </div>
 
 <br/>
@@ -27,7 +27,6 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 <br/>
-<sub>↑ refreshes with a new quote every time this page loads</sub>
 </div>
 
 <br/>
