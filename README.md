@@ -40,7 +40,7 @@
 
 I'm a Computer Science undergraduate at **Rajalakshmi Institute of Technology** (2024–2028), building across the full stack from responsive User interfaces to Python/Flask APIs, IoT-integrated systems, and cross-platform Flutter apps. I care about writing software that's not just functional, but genuinely well-engineered.
 
-Outside of code, I served as my **school's Pupil Leader**, leading a student body of over 1,000 and coordinating events and discipline — an early lesson in ownership and accountability that carries into how I build software today.
+Outside of code, I served as my **school's Pupil Leader**, leading a student body of over 1,000 and coordinating events and discipline which is an early lesson in ownership and accountability that carries into how I build software today.
 
 <table>
 <tr>
