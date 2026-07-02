@@ -47,13 +47,13 @@ Outside of code, I served as my **school's Pupil Leader**, leading a student bod
 <td width="50%" valign="top">
 
 🔧 **Currently building**
-Full-stack products and IoT-integrated systems
+Full-stack products and Android development
 
 </td>
 <td width="50%" valign="top">
 
 🤝 **Looking to collaborate on**
-Open-source tools and applied AI projects
+Futuristic projects 
 
 </td>
 </tr>
