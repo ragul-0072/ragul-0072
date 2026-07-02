@@ -242,7 +242,7 @@ A data-processing tool that automatically identifies and maps solar filaments fr
 
 <br/>
 
-<sub>Thanks for stopping by — always open to interesting conversations and collaborations.</sub>
+<sub>Thanks for stopping by, I am always open to interesting conversations and collaborations.</sub>
 
 </div>
 
