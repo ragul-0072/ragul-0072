@@ -207,10 +207,10 @@ A data-processing tool that automatically identifies and maps solar filaments fr
 
 | Year | Milestone |
 |:---:|:---|
+| 🟣 2026 | Won Designathon 1.0 |
 | 🟣 2026 | Filed copyright for SFASFIC |
 | 🟠 2025 | Recognized at NASA Space Apps Challenge |
 | 🟠 2025 | Selected for Smart India Hackathon 2025 |
-| 🟠 2025 | Won Designathon 1.0 |
 | 🔵 2024 | Began B.E. Computer Science & Engineering |
 | 🔵 2024 | HSE (+2), Computer Science & Math — 93.33% |
 | 🟢 2022 | SSLC — 94.80% |
